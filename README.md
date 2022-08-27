@@ -33,6 +33,8 @@
 
 Связаться со мной можно в telegram [@taraswww777](https://t.me/taraswww777)
 
+Резюме на [hh.ru](https://spb.hh.ru/resume/4c039332ff03d40aad0039ed1f364961696744)
+
 <!---
 taraswww777/taraswww777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
