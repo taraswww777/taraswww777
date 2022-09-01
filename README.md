@@ -31,11 +31,11 @@
 - Gulp
 - TeamCity / Bitbacket / Gitea / Confluence
 
-Связаться со мной можно в telegram [@taraswww777](https://t.me/taraswww777)
+Связаться со мной можно в telegram [@taraswww777](https://t.me/taraswww777){:target="_blank"}
 
-Резюме на [hh.ru](https://spb.hh.ru/resume/4c039332ff03d40aad0039ed1f364961696744)
+Резюме на [hh.ru](https://spb.hh.ru/resume/4c039332ff03d40aad0039ed1f364961696744){:target="_blank"}
 
-Сайт: [taraswww777.dev](https://taraswww777.dev/)
+Сайт: [taraswww777.dev](https://taraswww777.dev/){:target="_blank"}
 
 <!---
 taraswww777/taraswww777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
