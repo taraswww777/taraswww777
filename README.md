@@ -33,6 +33,8 @@
 
 Связаться со мной можно в telegram [@taraswww777](https://t.me/taraswww777)
 
+Канал в telegram [@taraswwww777_news](https://t.me/taraswwww777_news)
+
 Резюме на [hh.ru](https://spb.hh.ru/resume/4c039332ff03d40aad0039ed1f364961696744)
 
 Сайт: [taraswww777.dev](https://taraswww777.dev/)
